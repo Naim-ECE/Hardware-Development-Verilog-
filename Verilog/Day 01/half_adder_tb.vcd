@@ -1,0 +1,39 @@
+$date
+	Mon Jan 13 16:34:24 2025
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module half_adder_tb $end
+$var wire 1 ! s $end
+$var wire 1 " c_out $end
+$var reg 1 # a $end
+$var reg 1 $ b $end
+$scope module ha $end
+$var wire 1 " Cout $end
+$var wire 1 # a $end
+$var wire 1 $ b $end
+$var wire 1 ! s $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0$
+0#
+0"
+0!
+$end
+#123
+1!
+1$
+#246
+0$
+1#
+#369
+0!
+1"
+1$
